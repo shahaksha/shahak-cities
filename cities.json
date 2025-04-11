@@ -1,4 +1,280 @@
 [
+  {
+    "value": "Cologne",
+    "aliases": [
+      "Köln",
+      "Koeln"
+    ]
+  },
+  {
+    "value": "Munich",
+    "aliases": [
+      "München"
+    ]
+  },
+  {
+    "value": "Vienna",
+    "aliases": [
+      "Wien"
+    ]
+  },
+  {
+    "value": "Zurich",
+    "aliases": [
+      "Zürich",
+      "Zuerich"
+    ]
+  },
+  {
+    "value": "Rome",
+    "aliases": [
+      "Roma"
+    ]
+  },
+  {
+    "value": "Warsaw",
+    "aliases": [
+      "Warszawa"
+    ]
+  },
+  {
+    "value": "Prague",
+    "aliases": [
+      "Praha"
+    ]
+  },
+  {
+    "value": "Moscow",
+    "aliases": [
+      "Москва"
+    ]
+  },
+  {
+    "value": "Beijing",
+    "aliases": [
+      "北京",
+      "Peking"
+    ]
+  },
+  {
+    "value": "Seoul",
+    "aliases": [
+      "서울"
+    ]
+  },
+  {
+    "value": "Tokyo",
+    "aliases": [
+      "東京"
+    ]
+  },
+  {
+    "value": "Istanbul",
+    "aliases": [
+      "İstanbul"
+    ]
+  },
+  {
+    "value": "Helsinki",
+    "aliases": [
+      "Helsingfors"
+    ]
+  },
+  {
+    "value": "Copenhagen",
+    "aliases": [
+      "København"
+    ]
+  },
+  {
+    "value": "Naples",
+    "aliases": [
+      "Napoli"
+    ]
+  },
+  {
+    "value": "Florence",
+    "aliases": [
+      "Firenze"
+    ]
+  },
+  {
+    "value": "Turin",
+    "aliases": [
+      "Torino"
+    ]
+  },
+  {
+    "value": "Venice",
+    "aliases": [
+      "Venezia"
+    ]
+  },
+  {
+    "value": "Lisbon",
+    "aliases": [
+      "Lisboa"
+    ]
+  },
+  {
+    "value": "Milan",
+    "aliases": [
+      "Milano"
+    ]
+  },
+  {
+    "value": "Brussels",
+    "aliases": [
+      "Bruxelles",
+      "Brussel"
+    ]
+  },
+  {
+    "value": "The Hague",
+    "aliases": [
+      "Den Haag"
+    ]
+  },
+  {
+    "value": "Athens",
+    "aliases": [
+      "Athína"
+    ]
+  },
+  {
+    "value": "Thessaloniki",
+    "aliases": [
+      "Saloniki"
+    ]
+  },
+  {
+    "value": "Nuremberg",
+    "aliases": [
+      "Nürnberg"
+    ]
+  },
+  {
+    "value": "Dusseldorf",
+    "aliases": [
+      "Düsseldorf",
+      "Duesseldorf"
+    ]
+  },
+  {
+    "value": "Frankfurt",
+    "aliases": [
+      "Frankfurt am Main"
+    ]
+  },
+  {
+    "value": "Stuttgart",
+    "aliases": [
+      "Stuttgart"
+    ]
+  },
+  {
+    "value": "Geneva",
+    "aliases": [
+      "Genève",
+      "Genf"
+    ]
+  },
+  {
+    "value": "Lausanne",
+    "aliases": [
+      "Losanna"
+    ]
+  },
+  {
+    "value": "Toulouse",
+    "aliases": [
+      "Tolosa"
+    ]
+  },
+  {
+    "value": "Marseille",
+    "aliases": [
+      "Marselha"
+    ]
+  },
+  {
+    "value": "Lyon",
+    "aliases": [
+      "Lió"
+    ]
+  },
+  {
+    "value": "Krakow",
+    "aliases": [
+      "Kraków"
+    ]
+  },
+  {
+    "value": "Lodz",
+    "aliases": [
+      "Łódź"
+    ]
+  },
+  {
+    "value": "Gdansk",
+    "aliases": [
+      "Gdańsk"
+    ]
+  },
+  {
+    "value": "Oslo",
+    "aliases": [
+      "Christiania"
+    ]
+  },
+  {
+    "value": "Amsterdam",
+    "aliases": [
+      "Amsterdamm"
+    ]
+  },
+  {
+    "value": "Mexico City",
+    "aliases": [
+      "Ciudad de México"
+    ]
+  },
+  {
+    "value": "Seville",
+    "aliases": [
+      "Sevilla"
+    ]
+  },
+  {
+    "value": "Bilbao",
+    "aliases": [
+      "Bilbo"
+    ]
+  },
+  {
+    "value": "Basel",
+    "aliases": [
+      "Bâle"
+    ]
+  },
+  {
+    "value": "Antwerp",
+    "aliases": [
+      "Antwerpen"
+    ]
+  },
+  {
+    "value": "Colombo",
+    "aliases": [
+      "කොළඹ"
+    ]
+  },
+  {
+    "value": "Tbilisi",
+    "aliases": [
+      "თბილისი"
+    ]
+  },
   "6th of October City",
   "A Coruña",
   "Aachen",
@@ -90,7 +366,6 @@
   "Amman",
   "Amritsar",
   "Amrāvati",
-  "Amsterdam",
   "Anaheim",
   "Anand",
   "Ananindeua",
@@ -149,12 +424,6 @@
   "Aswān",
   "Atani",
   "Ataşehir",
-  {
-    "value": "Athens",
-    "aliases": [
-      "Athína"
-    ]
-  },
   "Athlone",
   "Atlanta",
   "Atsiaman",
@@ -251,13 +520,6 @@
   "Begusarai",
   "Beibei",
   "Beihai",
-  {
-    "value": "Beijing",
-    "aliases": [
-      "北京",
-      "Peking"
-    ]
-  },
   "Beira",
   "Beirut",
   "Bei’an",
@@ -306,7 +568,6 @@
   "Bijapur",
   "Bijie",
   "Bila Tserkva",
-  "Bilbao",
   "Bilimora",
   "Bilāspur",
   "Bimbo",
@@ -375,13 +636,6 @@
   "Bristol",
   "Brno",
   "Brooklyn",
-  {
-    "value": "Brussels",
-    "aliases": [
-      "Bruxelles",
-      "Brussel"
-    ]
-  },
   "Bryansk",
   "Brăila",
   "Bucaramanga",
@@ -559,7 +813,6 @@
   "Cobán",
   "Cochabamba",
   "Coimbatore",
-  "Colombo",
   "Colonia del Valle",
   "Colorado Springs",
   "Columbus",
@@ -569,12 +822,6 @@
   "Constantine",
   "Constanţa",
   "Contagem",
-  {
-    "value": "Copenhagen",
-    "aliases": [
-      "København"
-    ]
-  },
   "Coro",
   "Corpus Christi",
   "Corrientes",
@@ -741,12 +988,6 @@
   "Fergana",
   "Fes",
   "Fianarantsoa",
-  {
-    "value": "Florence",
-    "aliases": [
-      "Firenze"
-    ]
-  },
   "Florianópolis",
   "Floridablanca",
   "Fontana",
@@ -913,12 +1154,6 @@
   "Hefei",
   "Hegang",
   "Heihe",
-  {
-    "value": "Helsinki",
-    "aliases": [
-      "Helsingfors"
-    ]
-  },
   "Henderson",
   "Hengshui",
   "Hengyang",
@@ -1031,12 +1266,6 @@
   "Islamabad",
   "Islington",
   "Ismailia",
-  {
-    "value": "Istanbul",
-    "aliases": [
-      "İstanbul"
-    ]
-  },
   "Istaravshan",
   "Itabashi",
   "Itabuna",
@@ -1380,12 +1609,6 @@
   "Linz",
   "Lipa City",
   "Lipetsk",
-  {
-    "value": "Lisbon",
-    "aliases": [
-      "Lisboa"
-    ]
-  },
   "Lishui",
   "Liupanshui",
   "Liuzhou",
@@ -1431,12 +1654,6 @@
   "Luzhou",
   "Lu’an",
   "Lviv",
-  {
-    "value": "Lyon",
-    "aliases": [
-      "Lió"
-    ]
-  },
   "Lübeck",
   "Ma On Shan",
   "Macapá",
@@ -1516,12 +1733,6 @@
   "Marne La Vallée",
   "Maroua",
   "Marrakesh",
-  {
-    "value": "Marseille",
-    "aliases": [
-      "Marselha"
-    ]
-  },
   "Maryvale",
   "Marília",
   "Marāgheh",
@@ -1568,17 +1779,10 @@
   "Mesa",
   "Messina",
   "Mexicali",
-  "Mexico City",
   "Miami",
   "Mianyang",
   "Mianzhu, Deyang, Sichuan",
   "Miguel Hidalgo",
-  {
-    "value": "Milan",
-    "aliases": [
-      "Milano"
-    ]
-  },
   "Milton Keynes",
   "Milwaukee",
   "Minamirinkan",
@@ -1620,12 +1824,6 @@
   "Morogoro",
   "Morvi",
   "Morādābād",
-  {
-    "value": "Moscow",
-    "aliases": [
-      "Москва"
-    ]
-  },
   "Moshi",
   "Mossamedes",
   "Mossoró",
@@ -1640,12 +1838,6 @@
   "Mulugu",
   "Mumbai",
   "Munger",
-  {
-    "value": "Munich",
-    "aliases": [
-      "München"
-    ]
-  },
   "Muratpaşa",
   "Murcia",
   "Murmansk",
@@ -1705,12 +1897,6 @@
   "Nantes",
   "Nantong",
   "Nanyang",
-  {
-    "value": "Naples",
-    "aliases": [
-      "Napoli"
-    ]
-  },
   "Nara-shi",
   "Narela",
   "Narsingdi",
@@ -1831,7 +2017,6 @@
   "Osan",
   "Osasco",
   "Osh",
-  "Oslo",
   "Osmaniye",
   "Osogbo",
   "Ostrava",
@@ -1949,12 +2134,6 @@
   "Portsmouth",
   "Posadas",
   "Poznań",
-  {
-    "value": "Prague",
-    "aliases": [
-      "Praha"
-    ]
-  },
   "Praia Grande",
   "Prayagraj",
   "Presidente Prudente",
@@ -2063,12 +2242,6 @@
   "Rochester",
   "Rohini",
   "Rohtak",
-  {
-    "value": "Rome",
-    "aliases": [
-      "Roma"
-    ]
-  },
   "Roodepoort",
   "Rosario",
   "Rostov-na-Donu",
@@ -2211,12 +2384,6 @@
   "Sendai",
   "Sengkang New Town",
   "Seongnam-si",
-  {
-    "value": "Seoul",
-    "aliases": [
-      "서울"
-    ]
-  },
   "Sepang",
   "Serang",
   "Serekunda",
@@ -2329,12 +2496,6 @@
   "Stockton",
   "Stoke-on-Trent",
   "Strasbourg",
-  {
-    "value": "Stuttgart",
-    "aliases": [
-      "Stuttgart"
-    ]
-  },
   "Subang Jaya",
   "Sucre",
   "Suez",
@@ -2442,7 +2603,6 @@
   "Tawau",
   "Taytay",
   "Ta’if",
-  "Tbilisi",
   "Tegal",
   "Tegucigalpa",
   "Tehran",
@@ -2459,12 +2619,6 @@
   "Tete",
   "Thanjavur",
   "The Bronx",
-  {
-    "value": "The Hague",
-    "aliases": [
-      "Den Haag"
-    ]
-  },
   "Thembisa",
   "Thessaloníki",
   "Thika",
@@ -2496,12 +2650,6 @@
   "Toamasina",
   "Tokorozawa",
   "Tokushima",
-  {
-    "value": "Tokyo",
-    "aliases": [
-      "東京"
-    ]
-  },
   "Toledo",
   "Toluca",
   "Tolyatti",
@@ -2516,12 +2664,6 @@
   "Toronto",
   "Torreón",
   "Touba",
-  {
-    "value": "Toulouse",
-    "aliases": [
-      "Tolosa"
-    ]
-  },
   "Toyama",
   "Toyohashi",
   "Toyonaka",
@@ -2546,12 +2688,6 @@
   "Tunduma",
   "Tungi",
   "Tunis",
-  {
-    "value": "Turin",
-    "aliases": [
-      "Torino"
-    ]
-  },
   "Turkestan",
   "Turmero",
   "Turpan",
@@ -2609,12 +2745,6 @@
   "Viamão",
   "Victoria",
   "Victoria de Durango",
-  {
-    "value": "Vienna",
-    "aliases": [
-      "Wien"
-    ]
-  },
   "Vigo",
   "Vijayawada",
   "Vila Velha",
@@ -2652,12 +2782,6 @@
   "Wanzhou",
   "Warangal",
   "Warri",
-  {
-    "value": "Warsaw",
-    "aliases": [
-      "Warszawa"
-    ]
-  },
   "Washington",
   "Weifang",
   "Weihai",
